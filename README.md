@@ -8,3 +8,9 @@ This line is created in local.
 this is another line created local
 
 and this one is created in the server
+
+another change
+
+local branch local changes
+
+many changes in this file
